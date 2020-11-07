@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Aashrey Jain and I am a Backend Development Engineer. I will be joining Oracle Server Technology as a Full-Time MTS soon!
+My name is Aashrey Jain and I am a Backend Developer. I will be joining Oracle Server Technology as a Full-Time MTS soon!
 
 You can also find me on [LinkedIn.](https://www.linkedin.com/in/aashrey-jain-139950169)
 
