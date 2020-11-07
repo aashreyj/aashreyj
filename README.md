@@ -4,8 +4,8 @@ My name is Aashrey Jain and I am a Backend Development Engineer. I will be joini
 You can also find me on [LinkedIn][1].
 
 ## 🏫 Education
-🎒 Nath Valley School (2005 - 2015)
-🎓 National Institute of Technology, Durgapur (B.Tech, Computer Science) (2017 - 2021)
+1. 🎒 Nath Valley School (2005 - 2015)
+2. 🎓 National Institute of Technology, Durgapur (B.Tech, Computer Science) (2017 - 2021)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
