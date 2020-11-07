@@ -1,7 +1,11 @@
 ## Hi there! 👋
-My name is Aashrey Jain and I am from Aurangabad, Maharashtra. I am currently a Final-year Computer Science Undergrad at NIT Durgapur, West Bengal. I will be joining Oracle Server Technology as MTS soon!
+My name is Aashrey Jain and I am a Backend Development Engineer. I will be joining Oracle Server Technology as a Full-Time MTS soon!
 
 You can also find me on [LinkedIn][1].
+
+## 🏫 Education
+🎒 Nath Valley School (2005 - 2015)
+🎓 National Institute of Technology, Durgapur (B.Tech, Computer Science) (2017 - 2021)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -14,7 +18,7 @@ You can also find me on [LinkedIn][1].
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aashreyj/aashreyj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashreyj&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashreyj&hide=html,kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/aashreyj/aashreyj">
@@ -22,3 +26,7 @@ You can also find me on [LinkedIn][1].
 </a>
 
 [1]: [https://www.linkedin.com/in/aashrey-jain-139950169]
+
+## 🏠 Places
+- Aurangabad, Maharashtra
+- Durgapur, West Bengal
