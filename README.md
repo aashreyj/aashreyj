@@ -1,6 +1,8 @@
 ## Hi there! 👋
 My name is Aashrey Jain and I am a Backend Developer.
-As a software developer at Oracle, I am a member of the DBaaS (Database as a Service) team and am involved in the complete life-cycle management of the service. The service that my team manages is critical, given the popularity of Oracle’s database offerings and the growing need to migrate workloads to the Cloud. With my team, I am responsible for using the Python SDK for OCI and applying Infrastructure-as-Code principles to perform the end-to-end automation of provisioning the underlying cloud infrastructure, as well as configuration and networking management for it, to support the requirements of Oracle’s cloud database customers.
+As a software developer at Oracle, I am a member of the DBaaS (Database as a Service) team and am involved in the complete life-cycle management of the service. The service that my team manages is critical, given the popularity of Oracle’s database offerings and the growing need to migrate workloads to the Cloud.
+
+With my team, I am responsible for using the Python SDK for OCI and applying Infrastructure-as-Code principles to perform the end-to-end automation of provisioning the underlying cloud infrastructure, as well as configuration and networking management for it, to support the requirements of Oracle’s cloud database customers.
 
 You can also find me on [LinkedIn.](https://www.linkedin.com/in/aashrey-jain)
 
